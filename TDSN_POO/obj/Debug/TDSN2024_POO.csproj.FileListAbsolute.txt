@@ -1,0 +1,10 @@
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\bin\Debug\TDSNformas.exe.config
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\bin\Debug\TDSNformas.exe
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\bin\Debug\TDSNformas.pdb
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\obj\Debug\TDSN2024_POO.csproj.AssemblyReference.cache
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\obj\Debug\TDSN2024.Forms1.resources
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\obj\Debug\TDSNformas.Properties.Resources.resources
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\obj\Debug\TDSN2024_POO.csproj.GenerateResource.cache
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\obj\Debug\TDSN2024_POO.csproj.CoreCompileInputs.cache
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\obj\Debug\TDSNformas.exe
+C:\Users\mateus\Downloads\TDSN_POO2\TDSN_POO2\TDSN_POO1\TDSN_POO\obj\Debug\TDSNformas.pdb
